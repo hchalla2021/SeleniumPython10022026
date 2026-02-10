@@ -1,0 +1,6 @@
+URL: "https://www.facebook.com/r.php?entry_point=login"
+browser: "chrome"
+timeout: 10
+implicit_wait: 5
+headless: False
+maximize_window: True
