@@ -2,7 +2,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.select import Select
 import os
-# this is added in local1
+# This is local change
 class BasePage:
     def __init__(self, driver):
         self.driver = driver
